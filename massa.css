@@ -1,0 +1,108 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f2f2f2;
+}
+
+header {
+background-color: #333;
+color: #fff;
+padding: 20px;
+text-align: center;
+}
+
+main {
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 20px;
+}
+
+section {
+background-color: pink;
+padding: 20px;
+margin-bottom: 40px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+font-weight: bold;
+size: 30
+color: #333;
+margin-bottom: 10px;
+}
+
+ul, ol {
+list-style: none;
+margin: 0.menu {
+  width: 25%;
+  float: left;
+}
+.main {
+  width: 75%;
+  float: left;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: pink;
+  color: white;
+  text-align: center;
+}
+}
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
+.menu {
+  width: 25%;
+  float: left;
+}
+.main {
+  width: 75%;
+  float: left;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:lightblue;
+  color: white;
+  text-align: center;
+}
+h1 {
+  background-color:;
+}
+
+div {
+  background-color: lightblue;
+  flex-direction: <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>: 
+}
+
+p {
+  background-color: lightyellow;
+}
+body {
+  background-image: url("");
+}
+p.outset {border-style: outset;}
+.row {
+  .column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.video-container {
+text-align: center;
+}
